@@ -1,4 +1,4 @@
-prefix=/home/www1/catkin_ws/install
+prefix=/home/www1/PROBOTAnno_ws/install
 
 Name: anno_description
 Description: Description of anno_description
